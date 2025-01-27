@@ -2,3 +2,6 @@ This is a sample one
 This is after first commit
 
 This is added in branch dev1
+
+
+This is newly created
